@@ -1,0 +1,15 @@
+Alice Sharma
+Email: alice.sharma@example.com
+Phone: +91 9876543210
+
+Education:
+Bachelor of Technology in Computer Science, ABC University, 2022
+Certification: AWS Certified Solutions Architect
+
+Experience:
+Software Developer Intern at XYZ Solutions, Jun 2021 – May 2022
+- Developed REST APIs using Python and Flask
+- Collaborated with front-end team for React integration
+
+Skills:
+Python, Flask, REST, SQL, Git, React

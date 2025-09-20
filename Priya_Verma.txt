@@ -1,0 +1,15 @@
+Priya Verma
+Email: priya.verma@example.com
+Phone: +91 9988776655
+
+Education:
+B.Sc in Information Technology, GHI College, 2021
+Certification: Scrum Master Certified (SMC)
+
+Experience:
+Software Engineer Intern at Innovatech, Jan 2021 – Dec 2021
+- Assisted in developing Django web applications
+- Worked on API integration and testing
+
+Skills:
+Python, Django, REST, HTML, CSS, Git

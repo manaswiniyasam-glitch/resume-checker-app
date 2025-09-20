@@ -1,0 +1,16 @@
+Rohit Kumar
+Email: rohit.kumar@example.com
+Phone: +91 9123456780
+
+Education:
+Master of Science in Data Science, DEF University, 2023
+Bachelor of Science in Statistics, DEF University, 2020
+Certification: Certified Data Analyst (CDA)
+
+Experience:
+Data Analyst at DataTech Pvt Ltd, Jul 2022 – Present
+- Worked on SQL and NoSQL databases
+- Built dashboards using Python and Tableau
+
+Skills:
+Python, SQL, NoSQL, Tableau, Data Analysis, Git

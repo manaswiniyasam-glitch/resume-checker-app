@@ -1,0 +1,12 @@
+Meena Joshi
+Email: meena.joshi@example.com
+Phone: +91 9988776650
+
+Education:
+Bachelor of Arts in History, DEF University, 2020
+
+Experience:
+Volunteer at Local NGO, Mar 2021 – May 2022
+
+Skills:
+Event organization, Research, Writing

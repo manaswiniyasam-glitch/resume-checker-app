@@ -1,0 +1,15 @@
+Ankit Singh
+Email: ankit.singh@example.com
+Phone: +91 9871122334
+
+Education:
+B.Tech in Computer Science and Engineering, JKL Institute, 2022
+Certification: PMP Certified
+
+Experience:
+Backend Developer at CodeWorks, Aug 2021 – Jun 2022
+- Developed microservices in Python and Flask
+- Implemented AWS cloud deployment
+
+Skills:
+Python, Flask, AWS, REST, Git

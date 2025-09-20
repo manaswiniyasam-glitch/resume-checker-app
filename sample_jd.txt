@@ -1,0 +1,17 @@
+Job Title: Software Engineer
+
+We are looking for a Software Engineer with strong experience in:
+- Python programming
+- Web development (Flask, Django)
+- RESTful API design
+- SQL and NoSQL databases
+- Cloud services (AWS, GCP, Azure)
+- Git version control
+- Unit testing and debugging
+- Agile/Scrum methodology
+
+Responsibilities:
+- Develop and maintain backend services and APIs.
+- Collaborate with frontend developers to integrate user-facing elements.
+- Optimize application performance and reliability.
+- Participate in code reviews and team meetings.

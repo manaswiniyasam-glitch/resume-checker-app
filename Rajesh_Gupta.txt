@@ -1,0 +1,12 @@
+Rajesh Gupta
+Email: rajesh.gupta@example.com
+Phone: +91 9123456789
+
+Education:
+High School Diploma, Local School, 2021
+
+Experience:
+Worked as a Sales Assistant at RetailMart, Jan 2022 – Dec 2022
+
+Skills:
+Customer service, Cash handling, Basic Excel

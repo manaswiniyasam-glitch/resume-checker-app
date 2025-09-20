@@ -1,0 +1,19 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-1234
+
+Professional Summary:
+Software developer with 3 years of experience in Python and web development.
+
+Skills:
+- Python, Flask, Django
+- RESTful APIs
+- SQL, MongoDB
+- Git, Docker
+- AWS
+
+Experience:
+Software Engineer at TechCorp (2019-2022)
+- Developed backend APIs using Flask.
+- Worked on cloud deployment using AWS.
+- Implemented database solutions using SQL and MongoDB.

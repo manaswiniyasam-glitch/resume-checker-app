@@ -1,0 +1,16 @@
+Sneha Reddy
+Email: sneha.reddy@example.com
+Phone: +91 9001122334
+
+Education:
+MBA in Marketing, MNO University, 2023
+B.Com, PQR College, 2020
+Certification: Google Analytics Certified
+
+Experience:
+Marketing Intern at BrightAds, Jun 2022 – May 2023
+- Conducted market research and competitor analysis
+- Created dashboards using Excel and Google Analytics
+
+Skills:
+Marketing, Excel, Google Analytics, Data Analysis

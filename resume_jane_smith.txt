@@ -1,0 +1,17 @@
+Jane Smith
+Email: jane.smith@example.com
+Phone: +1-555-5678
+
+Professional Summary:
+Front-end developer skilled in HTML, CSS, JavaScript, and React.
+
+Skills:
+- HTML, CSS, JavaScript
+- React.js, Redux
+- UI/UX design
+- Git
+
+Experience:
+Front-end Developer at WebSolutions (2020-2023)
+- Designed responsive web pages.
+- Collaborated with backend developers for API integration.
